@@ -1,0 +1,8 @@
+sidebar: 
+  - url: /hass
+    title: Home Assistant
+  - url: /keycloak
+    title: Keycloak
+  - url: /monica
+    title: Monica
+    
