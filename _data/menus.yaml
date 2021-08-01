@@ -1,8 +1,11 @@
-sidebar: 
-  - url: /hass
+sidebar:
+  - url: /installs/hass
     title: Home Assistant
-  - url: /keycloak
+  - url: /installs/keycloak
     title: Keycloak
-  - url: /monica
+  - url: /installs/monica
     title: Monica
-    
+  - url: /installs/traefik
+    title: Traefik
+  - url: /installs/traefik-forward-auth
+    title: Traefik ForwardAuth Support
